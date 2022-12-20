@@ -1,6 +1,11 @@
 ﻿/// <binding Clean='clean' />
 "use strict";
 
+ssssssssssssssssss
+dddddddddddddddd
+ffffffffffffffff
+ggggggggggggggg
+
 const gulp = require("gulp"),
       rimraf = require("rimraf"),
       concat = require("gulp-concat"),
